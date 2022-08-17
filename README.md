@@ -8,11 +8,11 @@ Frontend Course from Kottans
     </summary>
   <p>
   
-   Завдяки курсу **"Introduction to Git and GitHub"** освіжив свої знання про Git та дізнався декілька корисних та невідомих мені раніше команд.<br><br> *Згодом планую прослухати увесь курс.*
+   Завдяки курсу **"Introduction to Git and GitHub"** освіжив свої знання про Git та дізнався декілька корисних та невідомих мені раніше команд.<br><br>
   
   <img alt="Introduction to Git and GitHub" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Introduction%20to%20Git%20and%20GitHub.jpg"><br><br>
   
-   Сайт [learngitbranching](https://learngitbranching.js.org/) здивував тим, що взагалі існує щось подібне для вивчення Git'a, було цікаво проходити завдання, вважаю  дуже корисним для засвоєння матеріалу те, що є можливість візуально попрацювати із доволі абстрактними поняттями, такими як бранчі та т.п. <br><br> *Згодом планую обов'язково пройти усі рівні.*
+   Сайт [learngitbranching](https://learngitbranching.js.org/) здивував тим, що взагалі існує щось подібне для вивчення Git'a, було цікаво проходити завдання, вважаю  дуже корисним для засвоєння матеріалу те, що є можливість візуально попрацювати із доволі абстрактними поняттями, такими як бранчі та т.п. <br><br>
      
 
   <img alt="Introduction Sequence, Ramping Up" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Introduction%20Sequence%2C%20Ramping%20Up.jpg">
