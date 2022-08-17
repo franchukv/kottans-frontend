@@ -18,9 +18,6 @@ Frontend Course from Kottans
   <img alt="Introduction Sequence, Ramping Up" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Introduction%20Sequence%2C%20Ramping%20Up.jpg">
   <img alt="Push & Pull" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Push%20%26%20Pull.jpg"><br><br>
 
-
-   Не дивлячись на вищесказане, на теперішній момент, не бачу сенсу поглиблюватись у технологію та вивчати усі нюанси та проблеми із якими можливо зіштовхнутися, вважаю, що отриманих знань та навичок достатньо для продовження проходження курсу.<br><br>
-
    > P.S. Раніше я вже створив для себе **[шпаргалку](https://github.com/franchukv/Git-Commands/)** по Git'y, у якій своїми словами описав усі знайомі мені команди,  шпаргалка постійно отримує оновлення у вигляді нових команд та редагуванні раніше записаних команд.
     
   </p>
