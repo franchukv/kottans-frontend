@@ -61,10 +61,10 @@ Front-End Course from Kottans 2022
 [Linux Survival](https://linuxsurvival.com/) was an interesting journey, I know that Linus Torvalds created Linux and Git, so it was interesting to see the same decisions in the command names and in general to observe the behavior and logic of the system.
 
 
-  <img alt="quiz-1" src="/img/quiz-1.jpg"><br><br>
-  <img alt="quiz-2" src="/img/quiz-2.jpg"><br><br>
-  <img alt="quiz-3" src="/img/quiz-3.jpg"><br><br>
-  <img alt="quiz-4" src="/img/quiz-4.jpg"><br><br>
+  <img alt="quiz-1" src="/task_linux_cli/img/quiz-1.jpg"><br><br>
+  <img alt="quiz-2" src="/task_linux_cli/img/quiz-2.jpg"><br><br>
+  <img alt="quiz-3" src="/task_linux_cli/img/quiz-3.jpg"><br><br>
+  <img alt="quiz-4" src="/task_linux_cli/img/quiz-4.jpg"><br><br>
 
 
 Articles about **HTTP** was interesting and useful. I found them some hard to understand some details at first because of a lot of theory, but at end of article I found that all this puzzle was made up correct in my head!<br><br>
