@@ -1,6 +1,6 @@
 # kottans-frontend
 
-Front-End Course from Kottans 2022
+Front-End Course from [Kottans](https://kottans.org/) 2022
 
 ## Progress checklist
 
