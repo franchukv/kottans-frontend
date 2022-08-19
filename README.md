@@ -45,7 +45,6 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
   <img alt="Push & Pull" src="/git-and-github/img/Push & Pull.jpg"><br><br>
 
   > P.S. Previously, I already created a Git **[Git cheat sheet](https://github.com/franchukv/Git-Commands/)** for myself, in which I described all the commands I know in my own words.
-    
   </p>
 </details>
 
@@ -82,20 +81,22 @@ So definitely all this information will be useful in the future to understand so
   <p>
 
   Speaking of **"The Introduction to Git and GitHub"** course, it was good, but a little superficial for me.
-  I learned a few new commands and understood the Git workflow in teamwork, and it was really helpful, so a big thanks to the guys at Google and Kottans for this info :)<br>
+  I learned a few new commands and understood the Git workflow in teamwork, and it was really helpful, so a big thanks to the guys at Google and Kottans for this info :)<br><br>
 
-  <img alt="week1" src="/task_git_collaboration/img/week1.jpg">
-  <img alt="week2" src="/task_git_collaboration/img/week2.jpg">
-  <img alt="week3" src="/task_git_collaboration/img/week3.jpg">
-  <img alt="week4" src="/task_git_collaboration/img/week4.jpg">
+  <img width="49%" height="450px" alt="week1" src="/task_git_collaboration/img/week1.jpg">
+  <img width="49%" height="450px" alt="week2" src="/task_git_collaboration/img/week2.jpg">
+  <img width="49%" height="450px" alt="week3" src="/task_git_collaboration/img/week3.jpg">
+  <img width="49%" height="450px" alt="week4" src="/task_git_collaboration/img/week4.jpg"><br><br>
 
-  [Learngitbranching](https://learngitbranching.js.org/) was very nice, I had a lot of fun when I do exercises and I got pleasure when did it right. <br><br>
-  > (U know, I was surprised from fact that exist two camps, first "Merge" and second "Rebase", in fact I'm more with "second" guys because I more like clean tree)<br><br>
+  [Learngitbranching](https://learngitbranching.js.org/) was very nice, I had a lot of fun when I do exercises and I got pleasure when did it right. <br>
+  > U know, I was surprised from fact that exist two camps, first "Merge" and second "Rebase", in fact I'm more with "second" guys because I more like clean tree.<br>
+  
+  <br>
 
   <img alt="basics" src="/task_git_collaboration/img/basics.jpg">
-  <img alt="repo" src="/task_git_collaboration/img/repo.jpg">
+  <img alt="repo" src="/task_git_collaboration/img/repo.jpg"><br><br>
 
-  To summarize, it was really useful, but maybe too much for current me, I hope that all of this information will be more practical for future me.
+  To summarize, it was really informative, but maybe too much for current me, I hope that all of this information will be more practical for future me.
 
   </p>
 </details>
