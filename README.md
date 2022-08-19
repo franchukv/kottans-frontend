@@ -7,7 +7,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 ### General
 - [x] Git Basics
 - [x] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [x] VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
 - [ ] Intro to HTML & CSS
