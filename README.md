@@ -36,13 +36,13 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
   
    Thanks to the **"Introduction to Git and GitHub"** course, I refreshed my knowledge of Git and learned several useful and previously unknown commands.<br><br>
   
-  <img alt="Introduction to Git and GitHub" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Introduction%20to%20Git%20and%20GitHub.jpg"><br><br>
+  <img alt="Introduction to Git and GitHub" src="/git-and-github/img/Introduction to Git and GitHub.jpg"><br><br>
   
    The site [learngitbranching](https://learngitbranching.js.org/) surprised me with the fact that there is something similar for studying Git, it was interesting to go through the tasks, I consider it very useful for learning the material that there is an opportunity to visually work with quite abstract concepts, such as brunches, etc.<br><br>
      
 
-  <img alt="Introduction Sequence, Ramping Up" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Introduction%20Sequence%2C%20Ramping%20Up.jpg">
-  <img alt="Push & Pull" src="https://raw.githubusercontent.com/franchukv/kottans-frontend/main/git-and-github/img/Push%20%26%20Pull.jpg"><br><br>
+  <img alt="Introduction Sequence, Ramping Up" src="/git-and-github/img/Introduction Sequence, Ramping Up.jpg">
+  <img alt="Push & Pull" src="/git-and-github/img/Push & Pull.jpg"><br><br>
 
   > P.S. Previously, I already created a Git **[Git cheat sheet](https://github.com/franchukv/Git-Commands/)** for myself, in which I described all the commands I know in my own words.
     
@@ -61,13 +61,41 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 [Linux Survival](https://linuxsurvival.com/) was an interesting journey, I know that Linus Torvalds created Linux and Git, so it was interesting to see the same decisions in the command names and in general to observe the behavior and logic of the system.
 
 
-  <img alt="quiz-1" src="/task_linux_cli/img/quiz-1.jpg"><br><br>
-  <img alt="quiz-2" src="/task_linux_cli/img/quiz-2.jpg"><br><br>
-  <img alt="quiz-3" src="/task_linux_cli/img/quiz-3.jpg"><br><br>
-  <img alt="quiz-4" src="/task_linux_cli/img/quiz-4.jpg"><br><br>
+  <img width="49%" height="285px" alt="quiz-1" src="/task_linux_cli/img/quiz-1.jpg">
+  <img width="49%" height="285px" alt="quiz-2" src="/task_linux_cli/img/quiz-2.jpg">
+  <img width="49%" height="285px" alt="quiz-3" src="/task_linux_cli/img/quiz-3.jpg">
+  <img width="49%" height="285px" alt="quiz-4" src="/task_linux_cli/img/quiz-4.jpg"><br><br>
 
 
 Articles about **HTTP** was interesting and useful. I found them some hard to understand some details at first because of a lot of theory, but at end of article I found that all this puzzle was made up correct in my head!<br><br>
 So definitely all this information will be useful in the future to understand some things.
+  </p>
+</details>
+
+## Git Collaboration
+
+<details>
+    <summary>
+    See more
+    </summary>
+    
+  <p>
+
+  Speaking of **"The Introduction to Git and GitHub"** course, it was good, but a little superficial for me.
+  I learned a few new commands and understood the Git workflow in teamwork, and it was really helpful, so a big thanks to the guys at Google and Kottans for this info :)<br>
+
+  <img alt="week1" src="/task_git_collaboration/img/week1.jpg">
+  <img alt="week2" src="/task_git_collaboration/img/week2.jpg">
+  <img alt="week3" src="/task_git_collaboration/img/week3.jpg">
+  <img alt="week4" src="/task_git_collaboration/img/week4.jpg">
+
+  [Learngitbranching](https://learngitbranching.js.org/) was very nice, I had a lot of fun when I do exercises and I got pleasure when did it right. <br><br>
+  > (U know, I was surprised from fact that exist two camps, first "Merge" and second "Rebase", in fact I'm more with "second" guys because I more like clean tree)<br><br>
+
+  <img alt="basics" src="/task_git_collaboration/img/basics.jpg">
+  <img alt="repo" src="/task_git_collaboration/img/repo.jpg">
+
+  To summarize, it was really useful, but maybe too much for current me, I hope that all of this information will be more practical for future me.
+
   </p>
 </details>
