@@ -44,7 +44,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
   <img alt="Introduction Sequence, Ramping Up" src="/git-and-github/img/Introduction Sequence, Ramping Up.jpg">
   <img alt="Push & Pull" src="/git-and-github/img/Push & Pull.jpg"><br><br>
 
-  > P.S. Previously, I already created a Git **[Git cheat sheet](https://github.com/franchukv/Git-Commands/)** for myself, in which I described all the commands I know in my own words.
+  > P.S. Previously, I already created a **[Git cheat sheet](https://github.com/franchukv/Git-Commands/)** for myself, in which I described all the commands I know in my own words.
   </p>
 </details>
 
