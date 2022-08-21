@@ -114,14 +114,14 @@ So definitely all this information will be useful in the future to understand so
 
   > Was very and very useful to learn information about "box-model", in particular `box-sizing: border-box`.
 
-  <img alt="week1" src="../task_html_css_intro/img/week1.jpg">
-  <img alt="week2" src="../task_html_css_intro/img/week2.jpg"><br><br>
+  <img alt="week1" src="/task_html_css_intro/img/week1.jpg">
+  <img alt="week2" src="/task_html_css_intro/img/week2.jpg"><br><br>
 
   So, ***codecademy*** courses about **HTML & CSS**, they very good for beginners (*for dummies*) because model of "information and immediate practice" give a chance to get a general view about what's going on.
 
   But for me, it was a little annoying to pass them chasing information, which I already know and repeated at Chaikin's course, in short, "*repetition is the mother of learning*".
 
-  <img alt="codeacademy" src="../task_html_css_intro/img/codeacademy.jpg"><br><br>
+  <img alt="codeacademy" src="/task_html_css_intro/img/codeacademy.jpg"><br><br>
 
   At all was nice to know about a few new things for me, that's opacity in `HEX (#fff01, etc)`, `hls (hlsa)` and `text-align: justify`.
 
