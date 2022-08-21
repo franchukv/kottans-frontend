@@ -10,7 +10,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 - [x] VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
-- [ ] Intro to HTML & CSS
+- [x] Intro to HTML & CSS
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
@@ -97,6 +97,33 @@ So definitely all this information will be useful in the future to understand so
   <img alt="repo" src="/task_git_collaboration/img/repo.jpg"><br><br>
 
   To summarize, it was really informative, but maybe too much for current me, I hope that all of this information will be more practical for future me.
+
+  </p>
+</details>
+
+## Intro to HTML and CSS
+
+<details>
+    <summary>
+    See more
+    </summary>
+    
+  <p>
+
+  Speaking about **"Intro to HTML & CSS"** course, I already knew before a lot from first two parts course's material, but it was useful to repeat some things.<br>
+
+  > Was very and very useful to learn information about "box-model", in particular `box-sizing: border-box`.
+
+  <img alt="week1" src="../task_html_css_intro/img/week1.jpg">
+  <img alt="week2" src="../task_html_css_intro/img/week2.jpg"><br><br>
+
+  So, ***codecademy*** courses about **HTML & CSS**, they very good for beginners (*for dummies*) because model of "information and immediate practice" give a chance to get a general view about what's going on.
+
+  But for me, it was a little annoying to pass them chasing information, which I already know and repeated at Chaikin's course, in short, "*repetition is the mother of learning*".
+
+  <img alt="codeacademy" src="../task_html_css_intro/img/codeacademy.jpg"><br><br>
+
+  At all was nice to know about a few new things for me, that's opacity in `HEX (#fff01, etc)`, `hls (hlsa)` and `text-align: justify`.
 
   </p>
 </details>
