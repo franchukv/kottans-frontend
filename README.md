@@ -138,14 +138,14 @@ So definitely all this information will be useful in the future to understand so
   <p>
 
   1. Just a good [article](https://web.dev/i18n/en/responsive-web-design-basics/).
-  2. I'm familiar with [Flexbox Layout](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x), it was nice to repeat my knowledge.
-  <img src="/task_responsive_web_design/img/flexbox.jpg"><br>
-  3. Good [game](http://flexboxfroggy.com/), already played before.
-  <img src="/task_responsive_web_design/img/flexbox_froggy.jpg"><br>
+  2. I'm familiar with [Flexbox Layout](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x), it was nice to repeat my knowledge.<br>
+  <img src="/task_responsive_web_design/img/flexbox.jpg"><br><br>
+  3. Good [game](http://flexboxfroggy.com/), already played before.<br>
+  <img src="/task_responsive_web_design/img/flexbox_froggy.jpg"><br><br>
   4. It was a powerful experience, a very good [course](https://www.youtube.com/playlist?list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) on Grid Layout, now I understand how I can use it, but in the future I need more self-practice.<br>
-  <img src="/task_responsive_web_design/img/grid.jpg"><br>
-  > It was quite funny to see that some problems are much easier to solve than in Flexbox, I should have known this before, but "it is what it is" :)<br>
-  5. A good [game](http://cssgridgarden.com/), it was more difficult for me to pass it than *Flexbox Froggy*, but its usefulness in question, just confused me more.
+  <img src="/task_responsive_web_design/img/grid.jpg"><br><br>
+  > It was quite funny to see that some problems are much easier to solve than in Flexbox, I should have known this before, but "it is what it is" :)<br><br>
+  5. A good [game](http://cssgridgarden.com/), it was more difficult for me to pass it than *Flexbox Froggy*, but its usefulness in question, just confused me more.<br>
   <img src="/task_responsive_web_design/img/grid_garden.jpg">
 
   </p>
