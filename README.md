@@ -11,7 +11,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 
 ### Front-End Basics
 - [x] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [x] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - *practice*
@@ -124,6 +124,29 @@ So definitely all this information will be useful in the future to understand so
   <img alt="codeacademy" src="/task_html_css_intro/img/codeacademy.jpg"><br><br>
 
   At all was nice to know about a few new things for me, that's opacity in `HEX (#fff01, etc)`, `hls (hlsa)` and `text-align: justify`.
+
+  </p>
+</details>
+
+## Responsive Web Design
+
+<details>
+    <summary>
+    See more
+    </summary>
+    
+  <p>
+
+  1. Just a good [article](https://web.dev/i18n/en/responsive-web-design-basics/).
+  2. I'm familiar with [Flexbox Layout](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x), it was nice to repeat my knowledge.
+  <img src="/task_responsive_web_design/img/flexbox.jpg"><br>
+  3. Good [game](http://flexboxfroggy.com/), already played before.
+  <img src="/task_responsive_web_design/img/flexbox_froggy.jpg"><br>
+  4. It was a powerful experience, a very good [course](https://www.youtube.com/playlist?list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) on Grid Layout, now I understand how I can use it, but in the future I need more self-practice.<br>
+  <img src="/task_responsive_web_design/img/grid.jpg"><br>
+  > It was quite funny to see that some problems are much easier to solve than in Flexbox, I should have known this before, but "it is what it is" :)<br>
+  5. A good [game](http://cssgridgarden.com/), it was more difficult for me to pass it than *Flexbox Froggy*, but its usefulness in question, just confused me more.
+  <img src="/task_responsive_web_design/img/grid_garden.jpg">
 
   </p>
 </details>
