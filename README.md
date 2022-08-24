@@ -150,3 +150,17 @@ So definitely all this information will be useful in the future to understand so
 
   </p>
 </details>
+
+## HTML&CSS Practice: Hooli-style Popup
+
+<details>
+    <summary>
+    See more
+    </summary>
+    
+  <p>
+  
+    [Demo](https://franchukv.github.io/hooli-style-popup/) | [Code Base](https://github.com/franchukv/hooli-style-popup)
+
+  </p>
+</details>
