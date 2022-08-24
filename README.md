@@ -12,7 +12,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 ### Front-End Basics
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
-- [ ] HTML & CSS Practice
+- [x] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - *practice*
 
@@ -152,15 +152,5 @@ So definitely all this information will be useful in the future to understand so
 </details>
 
 ## HTML&CSS Practice: Hooli-style Popup
+[Demo](https://franchukv.github.io/hooli-style-popup/) | [Code Base](https://github.com/franchukv/hooli-style-popup)
 
-<details>
-    <summary>
-    See more
-    </summary>
-    
-  <p>
-  
-    [Demo](https://franchukv.github.io/hooli-style-popup/) | [Code Base](https://github.com/franchukv/hooli-style-popup)
-
-  </p>
-</details>
