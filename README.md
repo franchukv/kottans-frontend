@@ -13,7 +13,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
 - [x] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [x] JavaScript Basics
 - [ ] Document Object Model - *practice*
 
 ### Advanced Topics
@@ -166,27 +166,27 @@ So definitely all this information will be useful in the future to understand so
   So, it was a lot of new information for me, and it was much harder to pass tasks than I expected.<br>
   But at least now I know much more than I knew before about JS and wanna practice with my new knowledge on real tasks.<br><br>
 
-  <img src="/task_js_basics/week4.jpg">
-  <img src="/task_js_basics/js_basics_1.jpg">
-  <img src="/task_js_basics/js_basics_2.jpg"><br>
+  <img src="/task_js_basics/img/week4.jpg">
+  <img src="/task_js_basics/img/js_basics_1.jpg">
+  <img src="/task_js_basics/img/js_basics_2.jpg"><br>
 
   At this point, I didn't notice that I'm doing a module, that I don't need to do right now. <br>
   But learn something new about regular expressions was really interesting, because for me regexps always looked like abracadabra :D <br><br>
 
-  <img src="/task_js_basics/js_basics_3.jpg">
-  <img src="/task_js_basics/js_basics_4.jpg">
-  <img src="/task_js_basics/js_basics_5.jpg"><br>
+  <img src="/task_js_basics/img/js_basics_3.jpg">
+  <img src="/task_js_basics/img/js_basics_4.jpg">
+  <img src="/task_js_basics/img/js_basics_5.jpg"><br>
 
   > It Was At This Moment [**freeCodeCamp**](https://www.freecodecamp.org/) Knew... He Fucked Up.
 
-  <img src="/task_js_basics/oops.jpg"><br>
+  <img src="/task_js_basics/img/oops.jpg"><br>
 
   I suddenly noticed that I can't log in my account and I can't create new one, because dev guys from *freeCodeCamp*, how said one of our mentors: "they messed up earlier when doing their work" (it's a long story).<br>
   So I just passed all tasks without progress saves and that's a reason why I can't show my screenshots of progress, just believe on my words. <br><br>
 
   And you know what funnies thing, they restored my account just right at the moment that I was typing this text. But I don't want to pass all of these tasks again only for screenshots, just want to move on.<br>
 
-  <img src="/task_js_basics/success.jpg"><br>
+  <img src="/task_js_basics/img/success.jpg"><br>
 
 
   </p>
