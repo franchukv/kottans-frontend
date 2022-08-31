@@ -152,7 +152,7 @@ So definitely all this information will be useful in the future to understand so
 </details>
 
 ## HTML&CSS Practice: Hooli-style Popup
-[Demo](https://franchukv.github.io/hooli-style-popup/) | [Code Base](https://github.com/franchukv/hooli-style-popup)
+[Demo](https://franchukv.github.io/hooli-style-popup/) | [Code Base](https://github.com/franchukv/hooli-style-popup) | [Aproved PR](https://github.com/kottans/frontend-2022-homeworks/pull/284)
 
 ## JS Basics
 
@@ -179,7 +179,7 @@ So definitely all this information will be useful in the future to understand so
   <img width="32%" src="/task_js_basics/img/js_basics_4.jpg">
   <img width="32%" src="/task_js_basics/img/js_basics_5.jpg"><br><br>
 
-  > It Was At This Moment [**freeCodeCamp**](https://www.freecodecamp.org/) Knew... He Fucked Up.
+  > It Was At This Moment [**freeCodeCamp**](https://www.freecodecamp.org/) Knew... He *ucked Up.
   
   <br>
 
