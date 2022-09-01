@@ -200,21 +200,18 @@ So definitely all this information will be useful in the future to understand so
 
 ## DOM
 
+  [Demo](https://franchukv.github.io/dom-practice/) | [Code Base](https://github.com/franchukv/dom-practice)
+
 <details>
     <summary>
     See more
     </summary>
     
   <p>
-
   Just a nice module about DOM with basics information.<br>
-  <img src="/task_js_dom/img/cousera.jpg"> <br>
+  <img src="/task_js_dom/img/cousera.jpg"><br>
 
-  It was interesting to solve exercises.<br>
+  It was interesting to solve exercises.<br><br>
   <img src="/task_js_dom/img/fcc.jpg"><br>
-
-  And drumroll ... there is result of learning :)<br>
-  [Demo](https://franchukv.github.io/dom-practice/) | [Code Base](https://github.com/franchukv/dom-practice)
-
   </p>
 </details>
