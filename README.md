@@ -14,7 +14,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 - [x] Responsive Web Design
 - [x] HTML & CSS Practice
 - [x] JavaScript Basics
-- [ ] Document Object Model - *practice*
+- [x] Document Object Model - *practice*
 
 ### Advanced Topics
 - [ ] Building a Tiny JS World (pre-OOP) - *practice*
@@ -192,3 +192,23 @@ So definitely all this information will be useful in the future to understand so
   </p>
 </details>
 
+## DOM
+
+<details>
+    <summary>
+    See more
+    </summary>
+    
+  <p>
+
+  Just a nice module about DOM with basics information.<br>
+  <img src="/task_js_dom/img/cousera.jpg"> <br>
+
+  It was interesting to solve exercises.<br>
+  <img src="/task_js_dom/img/fcc.jpg"><br>
+
+  And drumroll ... there is result of learning :)<br>
+  [Demo](https://franchukv.github.io/dom-practice/) | [Code Base](https://github.com/franchukv/dom-practice)
+
+  </p>
+</details>
