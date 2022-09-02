@@ -17,7 +17,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 - [x] Document Object Model - *practice*
 
 ### Advanced Topics
-- [ ] Building a Tiny JS World (pre-OOP) - *practice*
+- [x] Building a Tiny JS World (pre-OOP) - *practice*
 - [ ] Object oriented JS - *practice*
 - [ ] OOP exercise - *practice*
 - [ ] Offline Web Applications - *optional*
@@ -208,10 +208,16 @@ So definitely all this information will be useful in the future to understand so
     </summary>
     
   <p>
+  
   Just a nice module about DOM with basics information.<br>
   <img src="/task_js_dom/img/cousera.jpg"><br>
 
   It was interesting to solve exercises.<br><br>
   <img src="/task_js_dom/img/fcc.jpg"><br>
+  
   </p>
 </details>
+
+## A Tiny JS World
+[Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/franchukv/a-tiny-JS-world)
+
