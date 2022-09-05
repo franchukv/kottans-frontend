@@ -18,7 +18,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 
 ### Advanced Topics
 - [x] Building a Tiny JS World (pre-OOP) - *practice*
-- [ ] Object oriented JS - *practice*
+- [x] Object oriented JS - *practice*
 - [ ] OOP exercise - *practice*
 - [ ] Offline Web Applications - *optional*
 - [ ] Memory pair game — *real project!*
@@ -221,3 +221,8 @@ So definitely all this information will be useful in the future to understand so
 ## A Tiny JS World
 [Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/franchukv/a-tiny-JS-world)
 
+## Object-Oriented JavaScript (Frogger Game)
+
+  [Demo](https://franchukv.github.io/js-oop-frogger/) | [Code base](https://github.com/franchukv/js-oop-frogger)
+
+  [Codewars Profile Link](https://www.codewars.com/users/franchukv)
