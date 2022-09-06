@@ -19,7 +19,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 ### Advanced Topics
 - [x] Building a Tiny JS World (pre-OOP) - *practice*
 - [x] Object oriented JS - *practice*
-- [ ] OOP exercise - *practice*
+- [x] OOP exercise - *practice*
 - [ ] Offline Web Applications - *optional*
 - [ ] Memory pair game — *real project!*
 - [ ] Website Performance Optimization - *optional*
