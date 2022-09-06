@@ -226,3 +226,7 @@ So definitely all this information will be useful in the future to understand so
   [Demo](https://franchukv.github.io/js-oop-frogger/) | [Code base](https://github.com/franchukv/js-oop-frogger)
 
   [Codewars Profile Link](https://www.codewars.com/users/franchukv)
+
+### JS OOP Exercise (Continued A Tiny JS World)
+
+  [Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code base](https://github.com/franchukv/a-tiny-JS-world)
