@@ -21,7 +21,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 - [x] Object oriented JS - *practice*
 - [x] OOP exercise - *practice*
 - [ ] Offline Web Applications - *optional*
-- [ ] Memory pair game — *real project!*
+- [x] Memory pair game — *real project!*
 - [ ] Website Performance Optimization - *optional*
 - [ ] Friends App - *real project!*
 
@@ -230,3 +230,7 @@ So definitely all this information will be useful in the future to understand so
 ### JS OOP Exercise (Continued A Tiny JS World)
 
   [Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code base](https://github.com/franchukv/a-tiny-JS-world)
+  
+### Memory-Pair Game (inspired by Civilization 5)
+
+  [Demo](https://franchukv.github.io/memory-pair-game/) | [Code base](https://github.com/franchukv/memory-pair-game)
