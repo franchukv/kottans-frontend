@@ -227,10 +227,10 @@ So definitely all this information will be useful in the future to understand so
 
   [Codewars Profile Link](https://www.codewars.com/users/franchukv)
 
-### JS OOP Exercise (Continued A Tiny JS World)
+## JS OOP Exercise (Continued A Tiny JS World)
 
   [Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code base](https://github.com/franchukv/a-tiny-JS-world)
   
-### Memory-Pair Game (inspired by Civilization 5)
+## Memory-Pair Game (inspired by Civilization 5)
 
   [Demo](https://franchukv.github.io/memory-pair-game/) | [Code base](https://github.com/franchukv/memory-pair-game)
