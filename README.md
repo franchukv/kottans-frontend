@@ -200,7 +200,7 @@ So definitely all this information will be useful in the future to understand so
 
 ## DOM
 
-  [Demo](https://franchukv.github.io/dom-practice/) | [Code Base](https://github.com/franchukv/dom-practice)
+  [Demo](https://franchukv.github.io/dom-practice/) | [Code Base](https://github.com/franchukv/dom-practice) | [Aproved PR](https://github.com/kottans/frontend-2022-homeworks/pull/388)
 
 <details>
     <summary>
@@ -219,7 +219,7 @@ So definitely all this information will be useful in the future to understand so
 </details>
 
 ## A Tiny JS World
-[Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/franchukv/a-tiny-JS-world)
+[Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/franchukv/a-tiny-JS-world) | [Aproved PR](https://github.com/kottans/frontend-2022-homeworks/pull/402)
 
 ## Object-Oriented JavaScript (Frogger Game)
 
