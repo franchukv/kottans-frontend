@@ -23,7 +23,7 @@ Front-End Course from [Kottans](https://kottans.org/) 2022
 - [ ] Offline Web Applications - *optional*
 - [x] Memory pair game — *real project!*
 - [ ] Website Performance Optimization - *optional*
-- [ ] Friends App - *real project!*
+- [x] Friends App - *real project!*
 
 <br>
 
@@ -234,3 +234,7 @@ So definitely all this information will be useful in the future to understand so
 ## Memory-Pair Game (inspired by Civilization 5)
 
   [Demo](https://franchukv.github.io/memory-pair-game/) | [Code base](https://github.com/franchukv/memory-pair-game)
+
+## Friends App
+
+  [Demo](https://franchukv.github.io/friends-app/) | [Code base](https://github.com/franchukv/friends-app)
