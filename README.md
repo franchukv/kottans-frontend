@@ -223,13 +223,13 @@ So definitely all this information will be useful in the future to understand so
 
 ## Object-Oriented JavaScript (Frogger Game)
 
-  [Demo](https://franchukv.github.io/js-oop-frogger/) | [Code base](https://github.com/franchukv/js-oop-frogger)
+  [Demo](https://franchukv.github.io/js-oop-frogger/) | [Code base](https://github.com/franchukv/js-oop-frogger) | [Aproved PR](https://github.com/kottans/frontend-2022-homeworks/pull/450)
 
   [Codewars Profile Link](https://www.codewars.com/users/franchukv)
 
 ## JS OOP Exercise (Continued A Tiny JS World)
 
-  [Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code base](https://github.com/franchukv/a-tiny-JS-world)
+  [Demo](https://franchukv.github.io/a-tiny-JS-world/) | [Code base](https://github.com/franchukv/a-tiny-JS-world) | [Aproved RP](https://github.com/kottans/frontend-2022-homeworks/pull/454)
   
 ## Memory-Pair Game (inspired by Civilization 5)
 
